@@ -26,4 +26,4 @@ The big data created further can be used to apply artificial intelligence to you
 
 # SAMPLE
 
-![Snap](https://github.com/syedmohiuddinzia/MsExDL/blob/main/main.vbs)
+![Snap](https://github.com/syedmohiuddinzia/MsExDL/blob/main/Snap.png)
